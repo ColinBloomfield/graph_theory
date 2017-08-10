@@ -1,1 +1,1 @@
-print("Test Github Synchronize")
+print("testing push to github repo.")
