@@ -67,7 +67,7 @@ def generate(seq, n, k):
 if __name__ == '__main__':
 
     # USER INPUT!!!
-    q = 6
+    q = 7
     m = 1
 
     # Determined by user input.
